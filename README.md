@@ -5,7 +5,7 @@ To automate the election audit of tabulated results of US congressional precinct
 Tom is a Colorado board of Elections employee and Seth is his boss. Seth wants us to help Tom automate the election audit process using python. We get the votes from three sources Mail-In ballots, punch cards, Direct recording electronic  or DRE counting machines for a particular county and candidate in [election_results.csv](https://github.com/sucharita1/Election_Analysis/blob/e2f21aa2fc722a4e4baec40cf72c8ad6baafc808/Resources/local_election_results.csv) 
 
 
-In this project, our final Python script needs to deliver the following information when the script is run and print in on the terminal as well as save in the the file [election_analysis.txt](https://github.com/sucharita1/Election_Analysis/blob/e2f21aa2fc722a4e4baec40cf72c8ad6baafc808/analysis/election_analysis.txt) as seen below for certification.
+In this project, our final Python script needs to deliver the following information when the script is run and print in on the terminal as well as save in the the file [election_analysis.txt](https://github.com/sucharita1/Election_Analysis/blob/e2f21aa2fc722a4e4baec40cf72c8ad6baafc808/analysis/election_analysis.txt) for certification.
 
 1. Total number of votes cast
 2. The voter turnout for each county
